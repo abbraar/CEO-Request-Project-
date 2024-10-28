@@ -4,6 +4,7 @@ Problem Statement 💡
 How can Olist increase its profitability?
 
 Key Findings 📊
+
 1- Wait time is the primary factor influencing low review scores.
 
 2- Seller selection can significantly impact wait time and reduce bad reviews.
