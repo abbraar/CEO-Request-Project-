@@ -1,9 +1,9 @@
 # CEO-Request Challenge: Improving Olist's Profit📈💲
 
-Problem Statement 💡
+***Problem Statement 💡***
 How can Olist increase its profitability?
 
-Key Findings 📊
+***Key Findings 📊***
 
 1- Wait time is the primary factor influencing low review scores.
 
